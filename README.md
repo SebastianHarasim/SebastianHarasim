@@ -9,3 +9,8 @@
 <br/><p align="center">⬇⬇⬇⬇⬇⬇⬇</p> 
 <p align="center"><img src="CV_SebastianH.png" /></p>
                       🌲🌳✈🛫🚀🚁⛰⛰🛤🛤🌨❄💧🌠🌠⛄⛄
+                      
+  🌨🌨🌨🌨🌨🌨🌨🌨🌨                    
+       🛫    🌠              
+  🚀
+  ⛰⛰     🛤🛤
