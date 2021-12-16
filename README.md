@@ -11,4 +11,4 @@
 - ⚡ Fun fact: ...
 -->
 
-![CV](/CV-SebastianHarasim.pdf)
+![CV](CV-SebastianHarasim.pdf)
