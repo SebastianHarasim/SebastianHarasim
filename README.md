@@ -11,10 +11,7 @@
 - ⚡ Fun fact: ...
 -->
   
-     
+
 <p align="center">
  <img src="CV_SebastianH.png" />
 </p>
- <center>       
-![CV](CV_SebastianH.png)
-</center>
