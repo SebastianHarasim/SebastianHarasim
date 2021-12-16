@@ -9,7 +9,7 @@
  You can take a look at my CV below 
 </p>     
 <br/><p align="center">
-       ⬇⬇⬇⬇⬇⬇⬇⬇
+⬇⬇⬇⬇⬇⬇⬇
 </p> 
                                 
 <p align="center">
