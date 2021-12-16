@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<--
 - 🔭 I'm currently working on gaining experience in C++
 - 🌱 I study programming at the WSB University in Gdańsk
 - 👯 I’m looking to collaborate on ...
