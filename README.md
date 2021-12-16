@@ -1,14 +1,10 @@
 ### Hi there 👋
 
 
-      - 🔭 I'm currently working on gaining experience in C++
-      - 🌱 I study programming at the WSB University in Gdańsk
-      - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I'm currently working on gaining experience in C++
+- 🌱 I study programming at the WSB University in Gdańsk
+- 💬 I love manual work, camping and of course programming
 - 📫 How to reach me: @ - sebastian.harasim.info@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
   
 
