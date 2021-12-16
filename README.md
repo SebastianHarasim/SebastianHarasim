@@ -6,7 +6,7 @@
 - 💬 I love manual work, camping and of course programming
 - 📫 How to reach me: @ - sebastian.harasim.info@gmail.com  
 <br/><p align="center">
- You can take a look at my CV below 
+ You can take a look at my CV below
 </p>     
 <br/><p align="center">
 ⬇⬇⬇⬇⬇⬇⬇
