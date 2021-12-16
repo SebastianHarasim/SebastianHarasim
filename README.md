@@ -1,4 +1,5 @@
-### Hi there 👋
+### 🌲❄ Hi there ❄🌲
+
 
 
 - 🔭 I'm currently working on gaining experience in C++                                 🌨🌨🌨🌨🌨🌨🌨🌨🌨�
